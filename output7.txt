@@ -1,0 +1,2 @@
+the given list is [3, 2, 44, 12, 34, 23, 17, 10]
+asscending order [2, 3, 10, 12, 17, 23, 34, 44]
